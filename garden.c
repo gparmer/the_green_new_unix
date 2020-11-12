@@ -30,6 +30,8 @@ dir_print(char *dirname)
 
 	dirent = readdir(d);
 	if (!dirent) return -1;
+	/* Note: this shouldn't return if you want to keep on getting more dirents! */
+	if (!strcmp(dirent->d_name, ".") || !strcmp(dirent->d_name, "..")) return -1;
 
 	construct_path(obj, dirname, dirent->d_name, 4096);
 	printf("%s: [%s, type = %s]\n",

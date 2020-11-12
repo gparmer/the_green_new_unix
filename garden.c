@@ -25,6 +25,8 @@ dir_print(char *dirname)
 
 	/* TODO 3: print a properly indented tree as in the `tree` command. Note, this is a DFS. */
 
+	/* TODO 4: I want *ornate* trees!!! print out the first 16 bytes of each file to give the tree *danglies*! */
+
 	return 0;
 }
 

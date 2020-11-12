@@ -39,5 +39,5 @@ Thus we're going to similarly grow some trees in our own garden!
 ## Go Forth, Green Warrior!
 
 Check out `garden.c`.
-Within it are three `TODO` issues.
+Within it are four `TODO` items.
 Go forth with your green thumbs and tend to your trees!

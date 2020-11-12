@@ -5,7 +5,7 @@ As programmers, we contribute to this:
 
 - we love our deliveries from the other side of the world,
 - we dig our streaming services which amount to digital deliveries that consume cloud and networking electricity, and
-- we drone away all day long in our pajamas the heat jacked up.
+- we drone away all day long in our pajamas with the heat jacked up.
 
 What can we do!?
 We need a Green New Deal...for UNIX!
